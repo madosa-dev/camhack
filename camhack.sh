@@ -16,6 +16,7 @@ printf "\e[1;96m ░░░░░╚═╝░╚════╝░░░░░░
 printf "\e[1;96m                                                                \e[0m\n"
 
 printf " \e[1;94m  optimized by  \e[0m\e[1;95m N3LL4 \e[0m \n"
+printf " \e[1;91m  YOU MUST TURN ON  \e[0m\e[1;93m MOBILE HOTSPOT!!! \e[0m \n"
 
 }
 
